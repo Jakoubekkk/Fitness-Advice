@@ -1,3 +1,7 @@
 # Fitness-Advice
 <h1>Popis</h1>
-<hr class="line" color = "black">
+<ul>
+  <li>Fitness Advice je aplikácia ktorá má pomáhať uživateľom s cvičením a stravou</li>
+</ul>
+<h2>Demo 0.0.1</h2>
+
