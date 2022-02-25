@@ -5,7 +5,7 @@
 </ul>
 <h2>Demo 0.0.1</h2>
 <ul>
-  <li>provtný grafický návrh a funkcie</li>
+  <li>prvotný grafický návrh a funkcie</li>
 </ul>
 <h2>Demo 0.0.2</h2>
 <ul>
