@@ -17,3 +17,4 @@
 <ul>
   <li>notifikácie pre sociálnu časť aplikácie</li>
 </ul>
+![image](https://user-images.githubusercontent.com/91307618/155672607-9bb5f9b7-d0cd-41bd-a690-432b517262bf.png)
